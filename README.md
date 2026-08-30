@@ -16,8 +16,8 @@
 - 关键思路
 - 复杂度分析
 - 容易踩坑点
-- Python 3 和 C++ 两种 LeetCode 可提交代码
-- Python 3 和 C++ 两种 ACM 输入输出模式代码
+- C++ 和 Python 3 两种 LeetCode 可提交代码（C++ 优先展示）
+- C++ 和 Python 3 两种 ACM 输入输出模式代码（C++ 优先展示）
 
 ## 自动化
 
